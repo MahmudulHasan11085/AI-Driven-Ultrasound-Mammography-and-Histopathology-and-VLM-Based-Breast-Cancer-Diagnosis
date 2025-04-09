@@ -8,6 +8,6 @@ restrictions, and limited availability in rural healthcare settings. This reduct
 both financial and emotional burdens on patients. With a user-friendly web interface for
 clinicians, the system is intended for large-scale deployment. Guided by the 3L principle—low
 cost, low error, and low invasiveness—it is expected to be an efficient, accurate, and
-patient-centered solution for breast cancer diagnosis.
+patient-centered solution for breast cancer diagnosis. This project is funded by DBL group, Bangladesh.
 
 **⚠️ This project is ongoing!**
